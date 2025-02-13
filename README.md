@@ -2,10 +2,10 @@
 
 Hi, I'm Elias, a **business analyst and data enthusiast** passionate about leveraging data for smarter decision-making.  
 Originally from Germany, I took the leap to study abroad, gaining **hands-on, real-world experience in Silicon Valley** where I deepened my understanding of data analytics, technology, and business strategy.  
+
 My expertise lies at the intersection of **data analysis, Python programming, SQL querying, and R coding**, focusing on applying analytical techniques to solve complex business challenges.  
 I believe that the true power of data lies not just in analysis, but in uncovering actionable **business insights** that drive strategy and decision-making. Translating data into **tangible value** is key to making a real impact in any organization.  
 
-Beyond academics, I enjoy using technology to enhance decision-making, optimize workflows, and extract meaningful insights from complex datasets. As a **student leader**, I actively contribute to fostering collaboration and engagement within my academic and professional community.  
 
 ## Education 🎓  
 
