@@ -9,11 +9,11 @@ I believe that the true power of data lies not just in analysis, but in uncoveri
 
 ## Education 🎓  
 
-| End Date  | Course                               | University                                                 | Location                  |
-|-----------|-------------------------------------|----------------------------------------------------------|---------------------------|
-| Aug 2025  | Master's in Business Analytics     | Hult International Business School                       | San Francisco, USA       |
-| Aug 2024  | Master's in International Business | Hult International Business School                       | San Francisco, USA       |
-| Mar 2021  | Bachelor's in Business Administration | Provadis School of International Management and Technology | Frankfurt, Germany         |
+ Major                               | University                                                 | Location                  |
+-------------------------------------|----------------------------------------------------------|---------------------------|
+Master's in Business Analytics     | Hult International Business School                       | San Francisco, USA       |
+Master's in International Business | Hult International Business School                       | San Francisco, USA       |
+Bachelor's in Business Administration | Provadis School of International Management and Technology | Frankfurt, Germany         |
 
 ## Connect with me 🤝  
 
